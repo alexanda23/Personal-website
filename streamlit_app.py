@@ -19,7 +19,7 @@ project_1_page = st.Page(
 project_2_page = st.Page(
     "views/ai_web_scrape.py",
     title="AI Web Scraper",
-    icon=":material/search"
+    icon=":material/search:"
 )
 
 
